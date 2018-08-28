@@ -2,5 +2,5 @@
 
 ## Some of my favorite things about Purdue CS193:
 - Coding
-- Private GitHub Repositories
 - Learning new things
+- Working with others who are interested in computer science
